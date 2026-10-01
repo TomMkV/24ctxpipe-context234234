@@ -1,0 +1,12 @@
+version: 1
+source: github
+pullRequests:
+  repositories:
+    - TomMkV/agent-echo
+    - TomMkV/carrie-hawker-style
+    - TomMkV/ctxpipe-context234234234234ttt
+    - TomMkV/homepage
+  states:
+    - merged
+  includeDrafts: false
+  maxPullRequestsPerRepository: 200
