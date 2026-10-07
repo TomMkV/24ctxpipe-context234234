@@ -1,5 +1,5 @@
 ---
-name: "24ctxpipe-context234234"
+name: 24ctxpipe-context234234
 ---
 
 <!-- ctxpipe:folder-map -->
